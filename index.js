@@ -9,6 +9,7 @@ function scuberGreetingForFeet(distance){
     return 'No can do.'
   }
 }
+
 function ternaryCheckCity(destination){
   if (destination == 'NYC') {
     return 'Ok, sounds good.'
