@@ -13,7 +13,7 @@ function ternaryCheckCity(destination){
   if (city = 'NYC') {
     return 'Ok, sounds good.'
   }
-  if(destination = 'Pittsburgh'){
+  else if(destination = 'Pittsburgh'){
     return "No go."
   }
 }
