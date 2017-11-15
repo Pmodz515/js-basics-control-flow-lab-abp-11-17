@@ -19,3 +19,6 @@ function ternaryCheckCity(destination){
   }
 }
 
+function switchOnCharmFromTip(amount){
+  if (amount = 'generous')
+}
