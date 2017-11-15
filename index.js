@@ -23,8 +23,7 @@ function switchOnCharmFromTip(amount){
   if (amount = 'generous'){
     return 'Thank you so much.'
   }
-  else if (amount ='not as generous'){
+  if (amount ='not as generous'){
     return 'Thank you.'
   }
 }
-
