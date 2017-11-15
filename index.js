@@ -16,5 +16,4 @@ function ternaryCheckCity(destination){
   else if (destination = ''){
     return 'No go.'
   }
-
 }
