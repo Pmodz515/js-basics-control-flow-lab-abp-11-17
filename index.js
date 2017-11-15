@@ -27,3 +27,4 @@ function switchOnCharmFromTip(amount){
     return 'Thank you.'
   }
 }
+}
