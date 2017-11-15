@@ -17,4 +17,7 @@ function ternaryCheckCity(destination){
     return 'No go.'
   }
 }
-function switchOnCharmFromTip(tip)
+function switchOnCharmFromTip(tip){
+  
+}
+}
