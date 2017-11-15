@@ -16,3 +16,4 @@ function ternaryCheckCity(location){
   else (location = 'Pittsburgh'){
     return 'No go.'
   }
+}
